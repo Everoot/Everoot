@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I hope to go further and further on the road of making wheels.
 <!--
 **Everoot/Everoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

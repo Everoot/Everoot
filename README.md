@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Nice to meet u!
 ![IMG_7232](https://github.com/Everoot/Everoot/assets/113372178/bc4c23dc-9e6d-45ef-ae37-3c2a1396ca80)
 <!--
 **Everoot/Everoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
